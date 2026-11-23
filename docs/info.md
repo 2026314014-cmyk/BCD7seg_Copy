@@ -9,15 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
-How it works?
-Realizamos una BCD de 4 entradas y 7 salidas el cual entra un numero binario y sale un numero real
-## How to test
-How to test?
-Seleccionas un numero binario en la placa donde hay switches y despues de que realices este paso transmitira esa informacion a un display al final del proyecto
+Realizamos un decodificador BCD de 4 entradas y 7 salidas en el cual entra un número binario y se muestra su valor decimal en un display.
 
+## How to test
+
+Selecciona un número binario en los interruptores (switches) de la placa; al hacerlo, esa información se transmitirá y mostrará en el display de 7 segmentos.
 
 ## External hardware
-External Hardware
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
 Display de 7 segmentos
